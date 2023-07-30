@@ -149,6 +149,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo" />
         <br/>Figma
       </td>
+       <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="figma logo" />
+        <br/>Postman
+      </td>
     </tr>
   </table>
 </div>
