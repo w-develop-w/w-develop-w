@@ -90,6 +90,13 @@
 		  <br />
 		  Tailwind
 		</td>
+		 <td align="center">
+			<a href="https://jestjs.io/" targer="_blank">
+		  <img src="https://avatars.githubusercontent.com/u/103283236?s=200&v=4" height="50" alt="tailwindcss logo"  style="border-radius: 5px;"/>
+			</a>
+		  <br />
+		  Jest
+		</td>
 	  </tr>
 	</table>
 	</div>
