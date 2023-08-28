@@ -1,15 +1,6 @@
 <h2 align="center">Hi! My name is Danil <br>and I'm a beginner Full-Stack Developer, from Ukraine</h2>
 
 ###
-
-
-
-
-
-
-
-
-
  
 <details>
 <summary>View more</summary>
