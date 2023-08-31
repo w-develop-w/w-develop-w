@@ -3,7 +3,7 @@
 
 ###
  
-<details>
+<details> 
 <summary>View more</summary>
 
 <div align="center">
